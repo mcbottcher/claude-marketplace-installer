@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "mcbottcher-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "mcbottcher/claude_plugins"
+      }
+    }
+  },
+
+  "enabledPlugins": {
+    "commit@mcbottcher-plugins": true
+  }
+}
